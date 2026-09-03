@@ -1,3 +1,4 @@
 .vscode/
 API
 node_modules/
+.env
